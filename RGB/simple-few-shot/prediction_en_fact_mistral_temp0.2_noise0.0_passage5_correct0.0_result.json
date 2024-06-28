@@ -1,0 +1,10 @@
+{
+    "all_rate": 0.18,
+    "noise_rate": 0.0,
+    "tt": 18,
+    "nums": 100,
+    "fact_check_rate": 0.07,
+    "correct_rate": 0.42857142857142855,
+    "fact_tt": 7,
+    "correct_tt": 3
+}
